@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DHPopMenuController.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DFC0A4B51F1CA82700A00C94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFC0A4CE1F1CA82700A00C94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DFC0A4D91F1CA82700A00C94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
